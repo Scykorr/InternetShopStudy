@@ -17,5 +17,12 @@
       <jdbc-url>jdbc:sqlite:G:\programms\InternetShopStudy\db.sqlite3</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="db.sqlite3 [2]" uuid="d3c0a0c9-d719-4eb1-ad58-b6ce8c902245">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\PycharmProjects\InternetShopStudy\db.sqlite3</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
